@@ -4,7 +4,7 @@
 
 ## Overview
 
-**This software runs with OpenFrameworks, you need to include ofxOsc addon.**
+**This software runs with OpenFrameworks, you need to include ofxOsc addon. You can use networkx to generate graph and pyOSC to comunicate with this soft **
 
 Draw graph from Networkx thanks to OSC. 
 
@@ -16,6 +16,8 @@ features:
 Please find a python example below.
 
 ## Python example
+
+You need to run NetworkxOF, then type the following code to runs the example
 
 #### import libraries
 	import networkx as nx
