@@ -17,7 +17,7 @@ Please find a python example below.
 
 ## Python example
 
-You need to run NetworkxOF, then type the following code to runs the example
+You need to run NetworkxOF, then type the following code in python to runs the example. (hint: install easily pyOSC and networkx with Anaconda)
 
 #### import libraries
 	import networkx as nx
